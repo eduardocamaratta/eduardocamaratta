@@ -1,5 +1,4 @@
-💻 [![LinkedIn](https://img.shields.io/badge/-eduardocamaratta-0A66C2?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardocamaratta)](https://www.linkedin.com/in/eduardocamaratta/)
-
-🧩 [![Code Wars](https://www.codewars.com/users/eduardocamaratta/badges/small)](https://www.codewars.com/users/eduardocamaratta)
-
-🎮 [![Steam](https://img.shields.io/badge/-eduardodc-black?style=flat&logo=steam&logoColor=white&link=https://steamcommunity.com/id/eduardodc)](https://steamcommunity.com/id/eduardodc)
+| LinkedIn | Codewars | Steam |
+| :--: | :--: | :--:  |
+| <img src="https://github.com/eduardocamaratta/eduardocamaratta/assets/884110/acf6d12a-214e-4071-a46f-e65ace0ddda6" height="200px"/> | <img src="https://github.com/eduardocamaratta/eduardocamaratta/assets/884110/f4dd8cac-e06f-4c08-91ee-827940fdca43" height="200px"/> | <img src="https://github.com/eduardocamaratta/eduardocamaratta/assets/884110/b9871b8a-bc7e-4fbd-b803-89e2dcbda665" height="200px"/> |
+| [![LinkedIn](https://img.shields.io/badge/-eduardocamaratta-0A66C2?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardocamaratta)](https://www.linkedin.com/in/eduardocamaratta/) | [![Code Wars](https://www.codewars.com/users/eduardocamaratta/badges/small)](https://www.codewars.com/users/eduardocamaratta) | [![Steam](https://img.shields.io/badge/-eduardodc-black?style=flat&logo=steam&logoColor=white&link=https://steamcommunity.com/id/eduardodc)](https://steamcommunity.com/id/eduardodc) |
